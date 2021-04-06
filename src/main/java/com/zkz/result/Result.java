@@ -3,7 +3,7 @@ package com.zkz.result;
 import com.alibaba.fastjson.JSON;
 
 /***
- *
+ *定义只返回状态的Result
  */
 public class Result {
     private String code;
